@@ -1,7 +1,7 @@
 # Workflows and Integration Strategies
 This assignment will incentivize you to get familiar with the different GitHub workflow strategies for:
 - integrating/merging pull requests and
-- establishing traceability between commits, tasks and pull requests
+- establishing traceability between commits, tasks and pull requests 1
 
 ## Step 1 - Create a New Repository
 Using your personal GitHub account [create a public, empty GitHub repository](https://github.com/new) called `CS471WorkflowsHomeworkAssignment`.
